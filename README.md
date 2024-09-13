@@ -15,10 +15,7 @@
 - 🧘 **Yoga and Meditation Practitioner** bringing balance to code and life
 
 ## 💼 Professional Journey
-
-- 🏢 **Software Engineering Intern** @ Brane Technologies
-- 🖥️ **Full Stack Development Intern** @ HackerEarth
-- 🌐 **Freelance Developer** specializing in decentralized applications
+- 🌐 **Freelance Developer** specializing in building web2 and web3 applications
 
 ## 🛠️ Tech Stack
 <p align="center">
