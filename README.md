@@ -15,6 +15,7 @@
 
 ## 💼 Professional Journey
 - 🌐 **Freelance Developer** specializing in building web2 and web3 applications
+- working at Saavik solutions.
 
 ## 🛠️ Tech Stack
 <p align="center">
