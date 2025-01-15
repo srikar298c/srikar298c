@@ -7,7 +7,7 @@
 
 ## 🚀 Quick Overview
 
-- 🎓 **Recent Computer Science Graduate** with a passion for innovative technologies
+- **Problem Solver**
 - 💻 **Full Stack Developer** crafting seamless user experiences
 - <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=flat-square" alt="Ethereum Badge" height="20"/> **Smart Contract Engineer** building the future of decentralized applications
 - 🌐 **Web3 Enthusiast** exploring the frontiers of blockchain technology
