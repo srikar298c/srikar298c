@@ -1,21 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Srikar 
 
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/kevin-feng-87a174202/)
+[![X Profile](https://img.shields.io/badge/X-@mesrikar29859-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mesrikar29859)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kevin-feng-87a174202/)](https://www.linkedin.com/in/k-srikar298c/)
 
 
 ## 🚀 Quick Overview
 
 - **Problem Solver**
 - 💻 **Full Stack Developer** crafting seamless user experiences
-- <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=flat-square" alt="Ethereum Badge" height="20"/> **Smart Contract Engineer** building the future of decentralized applications
-- 🌐 **Web3 Enthusiast** exploring the frontiers of blockchain technology
+- 🌐 **Web3 and Artifical Intelligence Enthusiast** exploring the frontiers of blockchain, AI and ML technologies
 - 🧘 **Yoga and Meditation Practitioner** bringing balance to code and life
 
 ## 💼 Professional Journey
-- 🌐 **Freelance Developer** specializing in building web2 and web3 applications
-- working at Saavik solutions.
+
+- working at Saavik Solutions.
+- worked as Freelance Developer for building solutions to organizations 
 
 ## 🛠️ Tech Stack
 <p align="center">
